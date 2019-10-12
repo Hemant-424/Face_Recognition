@@ -12,7 +12,7 @@ Opencv (2.4.9.1)
 
 Usage:
 Stage 1: Data Collection
--I collected the data(images) and stored in different folders with the images names
+-I collected the data(images) and stored in different folders with the images names(Images.png are the training images)
 Stage 2:
 -I had train the model using that training data which i stored in Different folders
 Stage 3:
